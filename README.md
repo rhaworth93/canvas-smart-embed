@@ -1,7 +1,7 @@
 # canvas-smart-embed
 
 <div class="container123">
-    <label for="textInput">Enter text:</label>
+    <label for="textInput">What skill would like to get better at?</label>
     <input type="text" id="textInput" placeholder="Enter text">
     <button type="button" onclick="updateText()">Add Text</button>
     <div id="master" aria-live="polite"></div>
